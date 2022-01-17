@@ -27,7 +27,6 @@ app.use(function (req, res, next) {
   next();
 });
 
-// Required for side-effects
 
 async function main(index) {
   console.log('main')
