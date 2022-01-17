@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "chromium": "^3.0.2",
+    "express": "^4.17.1",
+    "puppeteer": "^10.4.0",
+    "puppeteer-core": "^10.4.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
